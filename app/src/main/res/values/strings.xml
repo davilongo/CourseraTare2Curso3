@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CourseraTarea2Curso3</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="fecha_nacimiento">Fecha nacimiento</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="descripcion_contacto">Descripcion contacto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="editar_datos">Editar Datos</string>
+    <string name="confirmar_datos">Confirmar datos</string>
+
+</resources>
